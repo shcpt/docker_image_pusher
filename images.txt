@@ -2,3 +2,4 @@ python:alpine3.19
 nginx
 xiaoyaliu/alist:latest
 xiaoyaliu/glue
+amilys/embyserver
