@@ -7,3 +7,4 @@ fulinkapp/ocr_app:latest
 ddsderek/runlike
 ddsderek/xiaoya-emd
 dreamacro/clash
+haishanh/yacd
