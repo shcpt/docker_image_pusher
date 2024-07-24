@@ -8,3 +8,4 @@ ddsderek/runlike
 ddsderek/xiaoya-emd
 dreamacro/clash
 haishanh/yacd
+onlyoffice/documentserver
