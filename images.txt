@@ -9,3 +9,4 @@ ddsderek/xiaoya-emd
 dreamacro/clash
 haishanh/yacd
 onlyoffice/documentserver
+swaggerapi/swagger-editor
