@@ -13,3 +13,4 @@ swaggerapi/swagger-editor
 frooodle/s-pdf:latest
 privatebin/nginx-fpm-alpine:1.3.5
 excalidraw/excalidraw:latest
+ddsderek/xiaoya-glue
