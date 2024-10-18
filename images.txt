@@ -18,3 +18,4 @@ tduckcloud/tduck-platform
 hou6807628/openwrt
 dickhub/openwrt:beta
 dickhub/openwrt:x86_generic
+hestudy/sing-box-subscribe
