@@ -21,3 +21,4 @@ dickhub/openwrt:x86_generic
 hestudy/sing-box-subscribe
 jaaksi/sublinkx
 krispx/openwrt-x86_64:latest
+linkease/istorepanel:latest
