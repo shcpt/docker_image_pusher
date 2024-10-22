@@ -23,4 +23,3 @@ jaaksi/sublinkx
 krispx/openwrt-x86_64:latest
 linkease/istorepanel:latest
 openwrt/asu:latest
-openwrt/imagebuilder:mediatek-mt7623
